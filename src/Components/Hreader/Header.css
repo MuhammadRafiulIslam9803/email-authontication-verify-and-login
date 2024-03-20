@@ -1,0 +1,22 @@
+.header-style{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+
+}
+.style-login a{
+    text-decoration: none ;
+    margin-left: 15px;
+    padding: 5px 15px;
+    background-color: blue;
+    color: white;
+    border:  2px solid darkblue;
+    border-radius:  20px;
+}
+.style-compo a{
+    text-decoration: none;
+    margin-right: 15px;
+    padding: 10px ;
+
+}

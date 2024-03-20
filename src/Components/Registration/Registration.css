@@ -1,0 +1,28 @@
+.registerConteiner{
+    justify-content: center;
+    width: 50%;
+    border: 1px solid darkgoldenrod;
+    border-radius: 30px;
+    padding: 40px;
+    background-color: rgb(6, 216, 146);
+    margin-top: 50px;
+    margin: 0 auto;
+}
+.formConteiner{
+ display: grid;
+ grid-template-columns: 1fr;
+ grid-gap: 10px;
+ width: 80%;
+}
+.formConteiner input {
+   padding: 10px;
+   border-radius: 10px; 
+}
+.btn-style{
+    background-color: rgb(54, 54, 212);
+    padding: 10px;
+    border-radius: 10px;
+    color: whitesmoke;
+    font-size: large;
+    font-weight: 600;
+}
